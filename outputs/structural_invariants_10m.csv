@@ -1,0 +1,3 @@
+Invariant_Rule,Total_Rows_Tested,Exact_Match_Pct
+CONTINUITY_QFLAG == 'N' iff '...' gap in BIC8_PATH,10000000,100.0
+TRANSACTION_TYPE_CODE == 'Direct' iff PARTICIPANT_COUNT == 2,10000000,100.0
